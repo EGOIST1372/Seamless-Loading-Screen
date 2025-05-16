@@ -1,4 +1,4 @@
-# Seamless Loading Screen
+# Seamless Loading Screen (Fabric Only)
 
 **Seamless Loading Screen** is a **fabric** mod that takes a screenshot of the game when you leave a world or server,
 and displays it when you rejoin it.
