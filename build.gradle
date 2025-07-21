@@ -15,13 +15,13 @@ subprojects {
  //       silentMojangMappingsLicense()
 //    }
 
-    dependencies {
-        minecraft "com.mojang:minecraft:${rootProject.minecraft_version}"
-        mappings loom.layered {
-            it.mappings("net.fabricmc:yarn:$rootProject.yarn_mappings:v2")
-        }
-    }
-}
+    //dependencies {
+ //       minecraft "com.mojang:minecraft:${rootProject.minecraft_version}"
+ //       mappings loom.layered {
+   //         it.mappings("net.fabricmc:yarn:$rootProject.yarn_mappings:v2")
+   //     }
+//    }
+//}
 
 allprojects {
     apply plugin: "java"
