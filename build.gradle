@@ -8,7 +8,7 @@ architectury {
     minecraft = rootProject.minecraft_version
 }
 
-subprojects {
+//subprojects {
  //   apply plugin: "dev.architectury.loom"
 
 //    loom {
